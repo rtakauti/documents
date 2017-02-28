@@ -1,5 +1,5 @@
 <?php
-namespace Rtakauti\CPF;
+namespace Rtakauti;
 
 class Cpf
 {

@@ -1,6 +1,6 @@
 {
-  "name": "rtakauti/cpf",
-  "description": "CPF Validator",
+  "name": "rtakauti/documents",
+  "description": "Documents validators and generators",
   "type": "library",
   "license": "MIT",
   "authors": [
